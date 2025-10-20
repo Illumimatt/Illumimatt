@@ -7,8 +7,8 @@
 ### 👨‍💻 Sobre Mim
 
 - 🌱 Atualmente estou aprendendo **Game Design**.
-- 🔭 Estou trabalhando em um projeto incrível: **[Dekora]**.
-- 📫 Como me encontrar: **[deters.mk@sempreceub.com]**
+- 🔭 Estou trabalhando em um projeto incrível: **Dekora**.
+- 📫 Como me encontrar: **deters.mk@sempreceub.com**
 
 ---
 
@@ -33,9 +33,6 @@
 ### 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Illumimatt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Illumimatt" />
-  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illumimatt&layout=compact&langs_count=7&theme=dracula" alt="Linguagens Mais Usadas por Illumimatt" />
   </a>
