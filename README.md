@@ -1,12 +1,12 @@
 ## Hi there 👋
 <h1 align="center">Olá, eu sou Matheus Kollmann 👋</h1>
-<h3 align="center">Um [Estudante de C. da Computação] apaixonado por aprender coisas novas.</h3>
+<h3 align="center">Um estudante de C. da Computação apaixonado por aprender coisas novas.</h3>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-- 🌱 Atualmente estou aprendendo **[Game Design]**.
+- 🌱 Atualmente estou aprendendo **Game Design**.
 - 🔭 Estou trabalhando em um projeto incrível: **[Dekora]**.
 - 📫 Como me encontrar: **[deters.mk@sempreceub.com]**
 
