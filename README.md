@@ -6,8 +6,8 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🌱 Atualmente estou aprendendo **Game Design**.
-- 🔭 Estou trabalhando em um projeto incrível: **Dekora**.
+- 🌱 Atualmente estou aprendendo **Gestao de projetos e IA**.
+- 🔭 Estou trabalhando em um projeto incrível: **Melody.ia**.
 - 📫 Como me encontrar: **deters.mk@sempreceub.com**
 
 ---
